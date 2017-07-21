@@ -13,6 +13,17 @@
     position: fixed;
 }
 
+/*** Box-Shadow ***/
+
+.boxshadow {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+/*** Box-Shadow Navbar ***/
+
+.boxshadownav {
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
+}
 
 
 /*** Headline ***/
