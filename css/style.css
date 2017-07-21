@@ -1,5 +1,14 @@
 /****** index.html ******/
 
+/*** Hintergrundbild ***/
+.backgroundimg {
+    background-image: url(http://durv.de/templates/joomspirit_107/images/background/regattabahn.jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+
 /*** Headline ***/
 .headlinesite {
     padding-left: 8rem;
