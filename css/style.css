@@ -13,6 +13,14 @@
     position: fixed;
 }
 
+/*** Auswahl Navbar Sportangebote sichtbar ***/
+.navact {
+    border-bottom: 3px solid #5cb85c;
+    font-size: 1.29rem;
+}
+
+
+
 /*** Box-Shadow ***/
 
 .boxshadow {
@@ -60,12 +68,12 @@
 
 
 
-        /****** Kinderrudern.html ******/
+/****** Kinderrudern.html ******/
         
-        /*** Auswahl Navbar sichtbar ***/
-        .sportnavact {
-            border-bottom: 3px solid #5cb85c;
-        }
+/*** Auswahl Navbar Sportangebote sichtbar ***/
+.sportnavact {
+    border-bottom: 3px solid #5cb85c;
+}
 
 
 
