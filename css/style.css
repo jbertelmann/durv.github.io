@@ -8,6 +8,11 @@
     background-attachment: fixed;
 }
 
+/*** Navbar ***/
+.navbarfixed {
+    position: fixed;
+}
+
 
 /*** Headline ***/
 .headlinesite {
