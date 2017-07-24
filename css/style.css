@@ -24,13 +24,13 @@
 /*** Box-Shadow ***/
 
 .boxshadow {
-    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.6);
 }
 
 /*** Box-Shadow Navbar ***/
 
 .boxshadownav {
-    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
+    box-shadow: 2.5px 2.5px 2.5px 2.5px rgba(0, 0, 0, 0.6);
 }
 
 
